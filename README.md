@@ -251,6 +251,9 @@ This project demonstrates practical experience with:
 
 **Badal**  
 B.Tech CSE — IILM University, Greater Noida
+intern at amingos
+2scs1003004500
+
 
 ## 20. Project Summary
 
