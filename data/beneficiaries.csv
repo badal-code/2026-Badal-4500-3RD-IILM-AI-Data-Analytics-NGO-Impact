@@ -1,0 +1,801 @@
+beneficiary_id,state,location_type,program,age,attendance_rate,outcome_score,engagement_level
+B00001,Uttar Pradesh,Rural,Women Empowerment,20,74.1,30.0,Medium
+B00002,Jharkhand,Rural,Education,62,100.0,50.6,High
+B00003,West Bengal,Rural,Community Development,67,77.8,71.7,Medium
+B00004,Delhi,Rural,Livelihood,46,61.2,71.1,Medium
+B00005,Delhi,Rural,Education,39,72.5,80.9,Medium
+B00006,Uttar Pradesh,Urban,Healthcare,42,78.1,64.3,Medium
+B00007,West Bengal,Urban,Healthcare,30,64.9,56.5,Medium
+B00008,Jharkhand,Rural,Livelihood,20,99.4,66.2,High
+B00009,Jharkhand,Urban,Livelihood,30,100.0,72.5,High
+B00010,Bihar,Rural,Livelihood,49,84.2,75.2,High
+B00011,Bihar,Urban,Livelihood,47,77.9,61.0,Medium
+B00012,Bihar,Rural,Community Development,48,61.2,84.6,Medium
+B00013,Rajasthan,Urban,Community Development,44,98.1,63.3,High
+B00014,Rajasthan,Rural,Livelihood,11,79.0,59.8,Medium
+B00015,Bihar,Urban,Community Development,45,74.2,64.4,Medium
+B00016,Bihar,Urban,Community Development,60,84.3,87.0,High
+B00017,West Bengal,Rural,Community Development,46,70.4,70.1,Medium
+B00018,Jharkhand,Rural,Healthcare,42,79.9,62.3,Medium
+B00019,Uttar Pradesh,Rural,Livelihood,21,59.2,85.0,Low
+B00020,Jharkhand,Rural,Healthcare,55,92.1,100.0,High
+B00021,Uttar Pradesh,Urban,Education,35,76.6,74.9,Medium
+B00022,Uttar Pradesh,Rural,Education,23,93.1,89.3,High
+B00023,Delhi,Urban,Women Empowerment,37,75.4,86.5,Medium
+B00024,Rajasthan,Rural,Livelihood,15,76.2,63.5,Medium
+B00025,West Bengal,Urban,Community Development,63,62.2,72.4,Medium
+B00026,Uttar Pradesh,Urban,Women Empowerment,50,87.9,54.0,High
+B00027,Jharkhand,Rural,Education,27,66.6,69.1,Medium
+B00028,Rajasthan,Rural,Community Development,55,71.7,63.2,Medium
+B00029,Rajasthan,Urban,Livelihood,11,78.0,66.4,Medium
+B00030,West Bengal,Rural,Livelihood,31,79.6,61.5,Medium
+B00031,Bihar,Rural,Community Development,47,55.8,68.0,Low
+B00032,Uttar Pradesh,Urban,Women Empowerment,9,75.0,79.5,Medium
+B00033,Uttar Pradesh,Rural,Education,50,88.3,70.3,High
+B00034,Bihar,Urban,Education,57,73.1,45.9,Medium
+B00035,Uttar Pradesh,Urban,Livelihood,43,75.1,61.6,Medium
+B00036,Uttar Pradesh,Rural,Education,20,80.1,50.7,High
+B00037,Jharkhand,Urban,Education,52,76.4,75.4,Medium
+B00038,Delhi,Urban,Women Empowerment,28,64.6,79.0,Medium
+B00039,Delhi,Rural,Education,52,77.5,75.6,Medium
+B00040,Uttar Pradesh,Urban,Education,45,90.9,61.0,High
+B00041,Bihar,Rural,Livelihood,13,64.3,75.5,Medium
+B00042,Rajasthan,Rural,Education,13,73.1,65.4,Medium
+B00043,Jharkhand,Urban,Healthcare,8,60.0,56.1,Low
+B00044,Uttar Pradesh,Rural,Community Development,12,90.2,82.4,High
+B00045,West Bengal,Urban,Women Empowerment,25,76.8,83.5,Medium
+B00046,West Bengal,Rural,Community Development,9,66.9,85.3,Medium
+B00047,Rajasthan,Urban,Healthcare,64,79.2,63.5,Medium
+B00048,Bihar,Rural,Women Empowerment,62,62.4,88.5,Medium
+B00049,Jharkhand,Urban,Healthcare,18,64.6,65.1,Medium
+B00050,Rajasthan,Rural,Healthcare,26,59.0,81.1,Low
+B00051,West Bengal,Urban,Education,52,64.1,64.8,Medium
+B00052,Uttar Pradesh,Urban,Community Development,47,95.6,68.9,High
+B00053,Rajasthan,Urban,Education,42,68.5,38.1,Medium
+B00054,Delhi,Rural,Healthcare,67,84.1,67.8,High
+B00055,Delhi,Rural,Livelihood,45,67.1,73.3,Medium
+B00056,Jharkhand,Urban,Livelihood,48,87.9,66.3,High
+B00057,West Bengal,Urban,Healthcare,38,64.7,96.6,Medium
+B00058,Bihar,Urban,Healthcare,39,78.5,55.7,Medium
+B00059,Jharkhand,Urban,Healthcare,25,78.7,64.1,Medium
+B00060,West Bengal,Rural,Community Development,39,100.0,59.3,High
+B00061,Jharkhand,Rural,Livelihood,63,86.2,64.1,High
+B00062,Uttar Pradesh,Rural,Community Development,30,70.3,86.4,Medium
+B00063,Bihar,Urban,Community Development,15,86.9,92.7,High
+B00064,Jharkhand,Urban,Women Empowerment,43,100.0,62.2,High
+B00065,West Bengal,Rural,Community Development,55,56.8,61.9,Low
+B00066,Jharkhand,Urban,Education,65,67.0,55.8,Medium
+B00067,Rajasthan,Rural,Community Development,40,74.9,90.3,Medium
+B00068,Jharkhand,Urban,Livelihood,55,72.6,87.7,Medium
+B00069,Jharkhand,Urban,Women Empowerment,23,73.7,70.5,Medium
+B00070,Bihar,Rural,Healthcare,33,61.0,52.5,Medium
+B00071,Jharkhand,Urban,Education,33,96.3,53.7,High
+B00072,Uttar Pradesh,Rural,Community Development,27,59.5,74.4,Low
+B00073,West Bengal,Urban,Livelihood,50,75.4,79.7,Medium
+B00074,Bihar,Urban,Education,61,91.6,43.1,High
+B00075,Rajasthan,Urban,Women Empowerment,27,77.6,67.5,Medium
+B00076,Uttar Pradesh,Urban,Education,16,65.3,94.7,Medium
+B00077,Delhi,Rural,Livelihood,57,60.5,69.0,Medium
+B00078,Bihar,Urban,Women Empowerment,58,75.0,92.9,Medium
+B00079,Uttar Pradesh,Rural,Women Empowerment,64,68.2,81.1,Medium
+B00080,Rajasthan,Rural,Livelihood,23,80.7,56.8,High
+B00081,Uttar Pradesh,Urban,Healthcare,51,59.8,67.9,Low
+B00082,Jharkhand,Urban,Community Development,50,88.6,70.2,High
+B00083,Rajasthan,Urban,Education,55,79.5,58.7,Medium
+B00084,Jharkhand,Rural,Education,56,80.5,58.4,High
+B00085,Bihar,Rural,Education,65,96.7,93.1,High
+B00086,Delhi,Urban,Community Development,36,72.3,58.3,Medium
+B00087,Delhi,Rural,Livelihood,12,68.6,87.1,Medium
+B00088,Uttar Pradesh,Urban,Education,19,70.9,65.9,Medium
+B00089,Uttar Pradesh,Urban,Education,61,75.5,71.6,Medium
+B00090,Jharkhand,Urban,Education,58,76.8,79.9,Medium
+B00091,Delhi,Rural,Community Development,8,67.2,63.6,Medium
+B00092,Uttar Pradesh,Urban,Livelihood,30,51.7,80.0,Low
+B00093,Delhi,Urban,Education,22,70.7,43.3,Medium
+B00094,Delhi,Urban,Healthcare,27,82.7,78.2,High
+B00095,Uttar Pradesh,Rural,Women Empowerment,46,79.8,37.4,Medium
+B00096,Delhi,Urban,Livelihood,38,93.6,68.8,High
+B00097,Rajasthan,Urban,Community Development,36,100.0,84.0,High
+B00098,Jharkhand,Urban,Education,34,87.9,80.7,High
+B00099,Jharkhand,Rural,Education,46,96.0,53.8,High
+B00100,Rajasthan,Urban,Education,48,88.0,55.6,High
+B00101,Jharkhand,Rural,Healthcare,10,100.0,62.4,High
+B00102,Uttar Pradesh,Urban,Women Empowerment,16,100.0,74.6,High
+B00103,Delhi,Urban,Women Empowerment,28,90.4,43.6,High
+B00104,Delhi,Rural,Healthcare,34,87.2,71.8,High
+B00105,Delhi,Rural,Women Empowerment,67,75.3,76.4,Medium
+B00106,Bihar,Urban,Women Empowerment,61,77.5,68.0,Medium
+B00107,Bihar,Rural,Education,46,73.6,79.4,Medium
+B00108,Delhi,Rural,Women Empowerment,10,86.1,75.1,High
+B00109,Rajasthan,Urban,Livelihood,14,68.6,64.4,Medium
+B00110,West Bengal,Rural,Education,35,75.5,44.9,Medium
+B00111,Rajasthan,Rural,Healthcare,43,47.4,73.9,Low
+B00112,Uttar Pradesh,Urban,Women Empowerment,47,100.0,58.7,High
+B00113,Delhi,Rural,Women Empowerment,16,75.1,63.9,Medium
+B00114,Jharkhand,Urban,Healthcare,61,83.9,78.7,High
+B00115,Delhi,Urban,Women Empowerment,37,97.0,91.8,High
+B00116,Delhi,Rural,Healthcare,43,81.9,71.5,High
+B00117,Delhi,Rural,Livelihood,10,96.8,79.8,High
+B00118,Bihar,Rural,Education,57,61.9,51.8,Medium
+B00119,Rajasthan,Rural,Community Development,40,100.0,75.4,High
+B00120,Rajasthan,Rural,Community Development,21,92.1,71.2,High
+B00121,Bihar,Urban,Education,27,80.7,89.2,High
+B00122,Delhi,Rural,Livelihood,29,96.5,64.4,High
+B00123,Jharkhand,Rural,Women Empowerment,9,62.8,68.6,Medium
+B00124,West Bengal,Rural,Livelihood,64,74.2,86.8,Medium
+B00125,Rajasthan,Urban,Healthcare,56,96.8,70.7,High
+B00126,Delhi,Urban,Community Development,61,53.7,56.5,Low
+B00127,West Bengal,Urban,Healthcare,29,85.3,100.0,High
+B00128,Rajasthan,Urban,Healthcare,41,84.9,56.9,High
+B00129,West Bengal,Urban,Healthcare,35,100.0,71.1,High
+B00130,Uttar Pradesh,Rural,Community Development,36,57.4,76.9,Low
+B00131,West Bengal,Rural,Livelihood,43,98.9,75.7,High
+B00132,Delhi,Urban,Women Empowerment,35,70.7,69.3,Medium
+B00133,Bihar,Urban,Community Development,54,72.2,69.4,Medium
+B00134,West Bengal,Rural,Community Development,11,62.1,68.7,Medium
+B00135,Rajasthan,Urban,Community Development,19,63.9,56.4,Medium
+B00136,Delhi,Rural,Community Development,61,83.2,100.0,High
+B00137,Delhi,Urban,Community Development,60,63.5,68.9,Medium
+B00138,Delhi,Urban,Community Development,57,87.6,80.4,High
+B00139,Bihar,Urban,Women Empowerment,30,69.4,67.3,Medium
+B00140,Rajasthan,Rural,Education,35,62.2,67.0,Medium
+B00141,Bihar,Urban,Education,9,71.1,65.6,Medium
+B00142,Jharkhand,Rural,Women Empowerment,24,82.4,50.3,High
+B00143,Bihar,Urban,Healthcare,51,74.4,69.8,Medium
+B00144,West Bengal,Urban,Community Development,28,78.4,66.3,Medium
+B00145,Rajasthan,Rural,Community Development,36,87.1,88.4,High
+B00146,Jharkhand,Urban,Women Empowerment,15,92.1,55.2,High
+B00147,Jharkhand,Urban,Women Empowerment,37,74.0,63.9,Medium
+B00148,West Bengal,Rural,Healthcare,51,64.4,59.4,Medium
+B00149,Rajasthan,Rural,Livelihood,42,79.0,92.2,Medium
+B00150,Rajasthan,Urban,Community Development,41,84.1,59.8,High
+B00151,Uttar Pradesh,Urban,Community Development,62,59.0,79.9,Low
+B00152,Jharkhand,Rural,Healthcare,22,66.4,85.6,Medium
+B00153,West Bengal,Rural,Community Development,25,68.7,70.0,Medium
+B00154,Uttar Pradesh,Rural,Livelihood,45,75.3,52.7,Medium
+B00155,West Bengal,Rural,Community Development,36,68.1,52.9,Medium
+B00156,Bihar,Rural,Livelihood,66,87.2,84.0,High
+B00157,Rajasthan,Urban,Women Empowerment,11,57.1,54.4,Low
+B00158,Jharkhand,Urban,Education,15,57.5,77.5,Low
+B00159,West Bengal,Rural,Healthcare,28,73.7,73.6,Medium
+B00160,West Bengal,Rural,Women Empowerment,35,75.7,77.3,Medium
+B00161,Uttar Pradesh,Rural,Community Development,61,59.1,78.6,Low
+B00162,Delhi,Rural,Education,37,70.1,58.9,Medium
+B00163,Rajasthan,Urban,Education,34,72.8,58.3,Medium
+B00164,Bihar,Rural,Women Empowerment,18,72.9,82.0,Medium
+B00165,West Bengal,Rural,Livelihood,34,80.0,63.2,Medium
+B00166,Uttar Pradesh,Urban,Community Development,39,69.4,33.5,Medium
+B00167,Jharkhand,Rural,Education,43,97.2,81.1,High
+B00168,Jharkhand,Rural,Healthcare,44,84.3,57.5,High
+B00169,West Bengal,Urban,Education,33,67.5,78.5,Medium
+B00170,Rajasthan,Rural,Women Empowerment,17,79.2,91.5,Medium
+B00171,Delhi,Rural,Community Development,17,79.6,72.2,Medium
+B00172,Uttar Pradesh,Rural,Education,17,93.8,85.9,High
+B00173,Delhi,Urban,Healthcare,45,70.2,74.2,Medium
+B00174,Jharkhand,Rural,Community Development,59,88.0,94.2,High
+B00175,West Bengal,Urban,Education,60,78.5,57.1,Medium
+B00176,West Bengal,Rural,Community Development,26,97.4,71.9,High
+B00177,Delhi,Urban,Community Development,12,94.8,81.4,High
+B00178,Rajasthan,Rural,Education,45,80.6,69.3,High
+B00179,Bihar,Rural,Education,10,74.6,88.1,Medium
+B00180,Bihar,Rural,Women Empowerment,45,84.6,66.0,High
+B00181,Bihar,Rural,Education,30,75.7,100.0,Medium
+B00182,Rajasthan,Urban,Livelihood,58,99.8,100.0,High
+B00183,Uttar Pradesh,Rural,Education,45,79.0,75.9,Medium
+B00184,Jharkhand,Urban,Livelihood,52,72.7,79.7,Medium
+B00185,West Bengal,Rural,Healthcare,32,72.0,88.7,Medium
+B00186,West Bengal,Urban,Women Empowerment,58,62.2,55.4,Medium
+B00187,Rajasthan,Rural,Community Development,39,85.2,53.6,High
+B00188,Bihar,Urban,Livelihood,45,67.3,89.6,Medium
+B00189,Delhi,Rural,Women Empowerment,29,92.3,75.8,High
+B00190,Jharkhand,Rural,Women Empowerment,34,61.2,68.8,Medium
+B00191,West Bengal,Urban,Community Development,58,79.7,72.2,Medium
+B00192,Jharkhand,Urban,Healthcare,31,93.0,38.6,High
+B00193,Jharkhand,Rural,Healthcare,9,50.0,69.3,Low
+B00194,Uttar Pradesh,Rural,Healthcare,30,100.0,61.5,High
+B00195,Bihar,Urban,Women Empowerment,31,72.5,84.9,Medium
+B00196,Delhi,Urban,Community Development,33,79.8,85.9,Medium
+B00197,Uttar Pradesh,Urban,Healthcare,12,85.4,80.1,High
+B00198,Jharkhand,Rural,Education,15,87.4,77.5,High
+B00199,West Bengal,Rural,Women Empowerment,27,81.6,51.0,High
+B00200,Jharkhand,Urban,Livelihood,33,91.0,80.3,High
+B00201,Jharkhand,Rural,Healthcare,9,84.7,80.8,High
+B00202,Bihar,Rural,Education,31,100.0,89.4,High
+B00203,Jharkhand,Rural,Community Development,27,84.8,100.0,High
+B00204,Delhi,Urban,Community Development,10,100.0,48.3,High
+B00205,Bihar,Urban,Women Empowerment,23,89.7,66.6,High
+B00206,Uttar Pradesh,Urban,Livelihood,24,54.5,61.6,Low
+B00207,West Bengal,Urban,Healthcare,16,100.0,74.4,High
+B00208,Rajasthan,Urban,Livelihood,53,70.5,72.2,Medium
+B00209,Jharkhand,Urban,Education,12,97.4,68.7,High
+B00210,Rajasthan,Urban,Healthcare,42,78.3,86.4,Medium
+B00211,Uttar Pradesh,Rural,Livelihood,47,91.8,56.6,High
+B00212,Uttar Pradesh,Urban,Livelihood,56,69.0,57.4,Medium
+B00213,Rajasthan,Rural,Education,40,86.1,57.7,High
+B00214,Uttar Pradesh,Urban,Community Development,40,74.7,67.0,Medium
+B00215,Jharkhand,Rural,Healthcare,53,98.5,54.8,High
+B00216,Uttar Pradesh,Urban,Livelihood,59,83.7,71.3,High
+B00217,Uttar Pradesh,Rural,Livelihood,20,90.2,69.7,High
+B00218,Delhi,Rural,Livelihood,55,49.9,61.0,Low
+B00219,Delhi,Urban,Community Development,35,76.9,84.2,Medium
+B00220,Rajasthan,Rural,Women Empowerment,13,83.3,71.2,High
+B00221,Rajasthan,Urban,Community Development,44,80.9,86.9,High
+B00222,Jharkhand,Rural,Healthcare,66,90.5,69.3,High
+B00223,Jharkhand,Urban,Healthcare,16,73.2,71.7,Medium
+B00224,Bihar,Urban,Livelihood,8,78.6,64.1,Medium
+B00225,Uttar Pradesh,Urban,Livelihood,62,93.4,71.9,High
+B00226,Bihar,Rural,Healthcare,43,48.4,82.0,Low
+B00227,Rajasthan,Urban,Livelihood,21,85.7,66.2,High
+B00228,Uttar Pradesh,Rural,Education,55,73.7,79.3,Medium
+B00229,Delhi,Urban,Livelihood,31,66.1,60.6,Medium
+B00230,Rajasthan,Urban,Women Empowerment,27,82.4,82.6,High
+B00231,West Bengal,Urban,Livelihood,25,94.0,63.9,High
+B00232,Jharkhand,Rural,Community Development,43,91.5,83.9,High
+B00233,Bihar,Rural,Community Development,16,76.2,72.9,Medium
+B00234,Jharkhand,Urban,Community Development,29,89.4,93.3,High
+B00235,Jharkhand,Rural,Education,26,89.3,55.8,High
+B00236,Uttar Pradesh,Urban,Community Development,11,76.9,51.3,Medium
+B00237,West Bengal,Urban,Healthcare,53,69.0,63.4,Medium
+B00238,Rajasthan,Rural,Livelihood,8,69.7,52.6,Medium
+B00239,Uttar Pradesh,Urban,Livelihood,65,88.9,52.6,High
+B00240,Uttar Pradesh,Urban,Healthcare,13,77.5,80.7,Medium
+B00241,Uttar Pradesh,Rural,Community Development,29,64.4,71.9,Medium
+B00242,Rajasthan,Urban,Women Empowerment,13,56.1,65.3,Low
+B00243,Bihar,Rural,Community Development,30,88.8,66.6,High
+B00244,Rajasthan,Rural,Community Development,44,70.9,63.6,Medium
+B00245,West Bengal,Rural,Livelihood,13,82.3,95.1,High
+B00246,Delhi,Rural,Women Empowerment,39,94.1,61.7,High
+B00247,Jharkhand,Rural,Livelihood,54,61.0,53.5,Medium
+B00248,Rajasthan,Urban,Livelihood,35,77.4,83.1,Medium
+B00249,West Bengal,Rural,Women Empowerment,14,75.8,69.0,Medium
+B00250,Uttar Pradesh,Rural,Women Empowerment,49,82.9,100.0,High
+B00251,Bihar,Rural,Community Development,19,94.1,64.6,High
+B00252,Jharkhand,Urban,Women Empowerment,9,60.7,83.8,Medium
+B00253,Bihar,Rural,Women Empowerment,34,85.4,87.2,High
+B00254,Bihar,Rural,Community Development,24,91.4,64.7,High
+B00255,Rajasthan,Urban,Education,9,75.6,61.6,Medium
+B00256,Delhi,Rural,Women Empowerment,54,76.2,82.4,Medium
+B00257,Jharkhand,Urban,Healthcare,43,83.4,80.0,High
+B00258,Uttar Pradesh,Urban,Livelihood,62,82.5,52.3,High
+B00259,Bihar,Rural,Women Empowerment,36,85.6,56.2,High
+B00260,Bihar,Urban,Healthcare,34,85.3,36.5,High
+B00261,Delhi,Urban,Community Development,58,65.2,80.3,Medium
+B00262,Bihar,Urban,Livelihood,12,90.9,68.3,High
+B00263,Delhi,Urban,Healthcare,29,93.2,69.7,High
+B00264,Uttar Pradesh,Rural,Healthcare,55,80.4,48.3,High
+B00265,Jharkhand,Rural,Livelihood,25,58.6,56.6,Low
+B00266,Jharkhand,Rural,Community Development,61,76.5,65.3,Medium
+B00267,Uttar Pradesh,Urban,Education,25,80.5,62.6,High
+B00268,Delhi,Rural,Livelihood,32,63.1,73.6,Medium
+B00269,Bihar,Rural,Community Development,61,73.3,80.2,Medium
+B00270,Uttar Pradesh,Rural,Livelihood,22,59.7,100.0,Low
+B00271,Rajasthan,Urban,Livelihood,66,85.9,71.7,High
+B00272,Rajasthan,Urban,Healthcare,10,80.2,87.6,High
+B00273,Delhi,Rural,Education,23,56.6,60.4,Low
+B00274,Rajasthan,Rural,Women Empowerment,43,82.6,48.6,High
+B00275,Jharkhand,Urban,Community Development,43,77.3,67.1,Medium
+B00276,Bihar,Rural,Livelihood,62,84.7,49.6,High
+B00277,Rajasthan,Urban,Livelihood,65,72.9,72.2,Medium
+B00278,Delhi,Urban,Education,48,67.6,61.1,Medium
+B00279,Jharkhand,Rural,Community Development,47,68.0,44.6,Medium
+B00280,Jharkhand,Rural,Community Development,27,71.0,96.3,Medium
+B00281,Uttar Pradesh,Urban,Community Development,56,78.2,64.5,Medium
+B00282,West Bengal,Rural,Healthcare,46,79.9,49.1,Medium
+B00283,Jharkhand,Rural,Women Empowerment,9,75.5,84.6,Medium
+B00284,Delhi,Urban,Livelihood,57,72.5,61.8,Medium
+B00285,Uttar Pradesh,Rural,Healthcare,29,73.4,87.3,Medium
+B00286,West Bengal,Rural,Healthcare,36,100.0,61.7,High
+B00287,Uttar Pradesh,Rural,Healthcare,37,68.0,64.4,Medium
+B00288,Bihar,Rural,Livelihood,57,70.7,76.8,Medium
+B00289,Rajasthan,Rural,Education,24,100.0,80.3,High
+B00290,Uttar Pradesh,Urban,Women Empowerment,31,83.5,82.8,High
+B00291,Jharkhand,Urban,Livelihood,10,60.1,70.7,Medium
+B00292,West Bengal,Rural,Community Development,28,89.0,79.4,High
+B00293,Rajasthan,Rural,Healthcare,13,66.2,82.4,Medium
+B00294,Jharkhand,Urban,Education,42,89.8,74.8,High
+B00295,West Bengal,Urban,Healthcare,61,75.3,70.0,Medium
+B00296,Rajasthan,Rural,Community Development,35,72.3,51.8,Medium
+B00297,Rajasthan,Urban,Healthcare,62,98.9,80.4,High
+B00298,Bihar,Urban,Women Empowerment,66,85.4,72.6,High
+B00299,West Bengal,Rural,Community Development,11,90.6,66.2,High
+B00300,Uttar Pradesh,Rural,Healthcare,38,83.7,89.9,High
+B00301,Rajasthan,Rural,Women Empowerment,39,72.2,52.0,Medium
+B00302,Bihar,Rural,Healthcare,31,85.9,95.0,High
+B00303,Uttar Pradesh,Urban,Healthcare,57,93.7,71.7,High
+B00304,Uttar Pradesh,Rural,Healthcare,31,79.8,76.4,Medium
+B00305,Jharkhand,Urban,Women Empowerment,11,100.0,66.5,High
+B00306,Bihar,Urban,Community Development,40,89.1,48.7,High
+B00307,Bihar,Rural,Healthcare,20,80.8,70.0,High
+B00308,Jharkhand,Rural,Healthcare,29,81.3,76.7,High
+B00309,Rajasthan,Rural,Community Development,38,79.8,81.5,Medium
+B00310,Jharkhand,Urban,Livelihood,51,61.7,69.2,Medium
+B00311,Delhi,Rural,Livelihood,24,76.8,41.3,Medium
+B00312,Jharkhand,Rural,Women Empowerment,30,80.9,50.4,High
+B00313,Jharkhand,Rural,Education,12,72.6,100.0,Medium
+B00314,Delhi,Rural,Community Development,31,82.4,56.7,High
+B00315,Jharkhand,Urban,Healthcare,42,78.3,92.0,Medium
+B00316,Bihar,Rural,Women Empowerment,45,88.1,58.9,High
+B00317,Uttar Pradesh,Rural,Livelihood,25,86.6,69.4,High
+B00318,West Bengal,Rural,Women Empowerment,11,80.2,80.8,High
+B00319,Delhi,Rural,Women Empowerment,42,60.2,60.5,Medium
+B00320,Bihar,Rural,Education,47,100.0,94.3,High
+B00321,Bihar,Urban,Education,13,76.2,73.1,Medium
+B00322,Rajasthan,Urban,Community Development,38,76.9,78.5,Medium
+B00323,Uttar Pradesh,Rural,Livelihood,13,73.5,68.3,Medium
+B00324,Bihar,Rural,Healthcare,35,71.7,81.2,Medium
+B00325,West Bengal,Rural,Education,46,98.1,94.1,High
+B00326,Jharkhand,Urban,Education,51,96.0,70.2,High
+B00327,Delhi,Urban,Community Development,50,83.8,96.2,High
+B00328,Rajasthan,Rural,Community Development,53,76.6,63.4,Medium
+B00329,Uttar Pradesh,Rural,Healthcare,22,86.0,82.7,High
+B00330,Jharkhand,Urban,Healthcare,58,79.0,78.8,Medium
+B00331,West Bengal,Rural,Livelihood,28,75.5,57.0,Medium
+B00332,Jharkhand,Urban,Education,30,82.4,75.0,High
+B00333,Uttar Pradesh,Rural,Livelihood,55,72.3,72.1,Medium
+B00334,West Bengal,Urban,Women Empowerment,27,81.3,60.1,High
+B00335,West Bengal,Urban,Community Development,12,80.7,77.0,High
+B00336,Bihar,Urban,Healthcare,50,85.8,74.0,High
+B00337,Bihar,Rural,Education,47,70.0,71.0,Medium
+B00338,West Bengal,Rural,Education,42,87.2,71.0,High
+B00339,Bihar,Rural,Healthcare,16,66.2,70.7,Medium
+B00340,Rajasthan,Urban,Women Empowerment,45,70.6,66.9,Medium
+B00341,Bihar,Urban,Education,19,71.1,74.0,Medium
+B00342,Rajasthan,Urban,Women Empowerment,41,64.1,63.0,Medium
+B00343,West Bengal,Rural,Livelihood,38,91.2,100.0,High
+B00344,Delhi,Urban,Women Empowerment,54,65.4,52.3,Medium
+B00345,Uttar Pradesh,Rural,Livelihood,66,68.9,63.8,Medium
+B00346,Delhi,Rural,Education,19,94.3,64.9,High
+B00347,West Bengal,Rural,Education,14,70.6,100.0,Medium
+B00348,West Bengal,Urban,Livelihood,41,75.6,53.5,Medium
+B00349,Uttar Pradesh,Rural,Livelihood,65,64.8,78.0,Medium
+B00350,Jharkhand,Urban,Community Development,17,88.8,75.5,High
+B00351,Rajasthan,Urban,Community Development,37,89.0,76.7,High
+B00352,Uttar Pradesh,Rural,Education,32,87.6,89.3,High
+B00353,West Bengal,Rural,Healthcare,27,85.0,89.0,High
+B00354,Uttar Pradesh,Rural,Healthcare,47,79.0,65.7,Medium
+B00355,Rajasthan,Urban,Education,25,71.2,74.7,Medium
+B00356,Uttar Pradesh,Rural,Education,37,67.4,45.9,Medium
+B00357,Uttar Pradesh,Rural,Education,58,94.8,73.4,High
+B00358,Delhi,Urban,Livelihood,30,87.9,60.9,High
+B00359,Delhi,Rural,Education,9,69.0,69.4,Medium
+B00360,Uttar Pradesh,Urban,Education,61,78.5,48.4,Medium
+B00361,Jharkhand,Rural,Education,24,74.1,77.7,Medium
+B00362,Bihar,Rural,Women Empowerment,54,63.3,48.2,Medium
+B00363,Rajasthan,Rural,Women Empowerment,53,80.3,74.1,High
+B00364,Bihar,Rural,Community Development,39,72.6,54.8,Medium
+B00365,Delhi,Urban,Education,13,65.6,60.1,Medium
+B00366,Rajasthan,Rural,Healthcare,65,58.8,88.2,Low
+B00367,Bihar,Rural,Livelihood,48,57.7,80.2,Low
+B00368,Bihar,Urban,Women Empowerment,33,73.2,88.1,Medium
+B00369,West Bengal,Urban,Education,59,76.9,93.8,Medium
+B00370,Bihar,Rural,Healthcare,55,66.6,61.2,Medium
+B00371,Rajasthan,Rural,Livelihood,53,86.5,93.0,High
+B00372,Delhi,Rural,Education,18,77.1,51.5,Medium
+B00373,Rajasthan,Rural,Healthcare,45,85.5,82.4,High
+B00374,Uttar Pradesh,Rural,Women Empowerment,25,75.6,65.1,Medium
+B00375,Bihar,Urban,Livelihood,12,67.8,59.0,Medium
+B00376,Rajasthan,Urban,Livelihood,28,79.5,80.6,Medium
+B00377,West Bengal,Rural,Livelihood,14,61.6,85.2,Medium
+B00378,Rajasthan,Rural,Community Development,14,85.0,84.8,High
+B00379,Uttar Pradesh,Rural,Livelihood,51,65.8,75.0,Medium
+B00380,Delhi,Rural,Livelihood,38,89.9,73.8,High
+B00381,Jharkhand,Rural,Community Development,31,73.6,79.4,Medium
+B00382,Delhi,Rural,Education,19,91.8,76.3,High
+B00383,Uttar Pradesh,Rural,Education,54,63.4,79.6,Medium
+B00384,Delhi,Urban,Livelihood,46,69.2,74.9,Medium
+B00385,Jharkhand,Rural,Healthcare,43,83.0,83.8,High
+B00386,Bihar,Rural,Healthcare,19,93.2,49.2,High
+B00387,Delhi,Urban,Education,15,99.7,70.2,High
+B00388,Uttar Pradesh,Rural,Community Development,15,78.5,52.6,Medium
+B00389,Bihar,Rural,Women Empowerment,9,100.0,75.9,High
+B00390,Bihar,Rural,Women Empowerment,66,74.2,95.0,Medium
+B00391,Delhi,Rural,Education,30,92.3,65.4,High
+B00392,Bihar,Urban,Healthcare,47,65.8,73.8,Medium
+B00393,Delhi,Urban,Women Empowerment,66,83.5,82.6,High
+B00394,Jharkhand,Urban,Livelihood,64,47.6,43.1,Low
+B00395,Rajasthan,Urban,Women Empowerment,27,63.4,64.7,Medium
+B00396,Bihar,Rural,Women Empowerment,37,84.1,77.1,High
+B00397,Delhi,Rural,Livelihood,35,60.9,31.4,Medium
+B00398,Bihar,Rural,Women Empowerment,10,83.6,58.3,High
+B00399,Delhi,Urban,Healthcare,54,89.8,87.4,High
+B00400,Delhi,Urban,Education,42,71.5,86.0,Medium
+B00401,West Bengal,Urban,Community Development,30,65.4,77.2,Medium
+B00402,Delhi,Rural,Education,41,71.8,84.4,Medium
+B00403,Rajasthan,Urban,Healthcare,52,65.4,75.0,Medium
+B00404,Bihar,Rural,Education,8,76.7,79.8,Medium
+B00405,Bihar,Rural,Healthcare,46,79.3,67.6,Medium
+B00406,Bihar,Rural,Healthcare,59,74.0,73.6,Medium
+B00407,Delhi,Urban,Education,51,99.8,63.1,High
+B00408,Uttar Pradesh,Urban,Livelihood,45,68.6,89.7,Medium
+B00409,Bihar,Rural,Community Development,13,96.1,93.3,High
+B00410,Uttar Pradesh,Rural,Education,52,64.5,91.3,Medium
+B00411,Rajasthan,Urban,Community Development,53,78.9,66.3,Medium
+B00412,West Bengal,Rural,Livelihood,37,93.4,58.6,High
+B00413,Bihar,Rural,Livelihood,42,92.7,89.9,High
+B00414,Rajasthan,Urban,Livelihood,45,72.5,79.6,Medium
+B00415,Uttar Pradesh,Urban,Healthcare,15,85.2,76.6,High
+B00416,Delhi,Urban,Education,23,83.5,63.1,High
+B00417,Uttar Pradesh,Urban,Livelihood,55,71.0,78.0,Medium
+B00418,Delhi,Urban,Community Development,66,86.0,56.8,High
+B00419,West Bengal,Rural,Livelihood,24,100.0,80.9,High
+B00420,West Bengal,Urban,Livelihood,32,84.1,91.3,High
+B00421,Jharkhand,Rural,Women Empowerment,62,85.4,94.8,High
+B00422,Jharkhand,Rural,Healthcare,17,86.7,81.9,High
+B00423,West Bengal,Urban,Education,23,59.0,52.7,Low
+B00424,Uttar Pradesh,Urban,Livelihood,11,84.0,74.8,High
+B00425,Delhi,Rural,Community Development,22,64.8,100.0,Medium
+B00426,Bihar,Rural,Healthcare,46,70.3,59.8,Medium
+B00427,West Bengal,Rural,Community Development,28,100.0,71.2,High
+B00428,Delhi,Urban,Community Development,67,74.7,91.8,Medium
+B00429,Jharkhand,Urban,Healthcare,61,68.4,80.6,Medium
+B00430,Jharkhand,Urban,Livelihood,61,93.0,100.0,High
+B00431,Uttar Pradesh,Rural,Women Empowerment,51,65.7,61.7,Medium
+B00432,Bihar,Rural,Livelihood,50,72.2,58.1,Medium
+B00433,Rajasthan,Rural,Women Empowerment,38,94.2,89.1,High
+B00434,Uttar Pradesh,Rural,Community Development,67,78.6,55.3,Medium
+B00435,Bihar,Urban,Women Empowerment,13,57.7,69.2,Low
+B00436,Uttar Pradesh,Rural,Community Development,51,85.1,71.1,High
+B00437,Rajasthan,Urban,Community Development,16,72.8,86.5,Medium
+B00438,Uttar Pradesh,Rural,Community Development,28,98.0,80.6,High
+B00439,Rajasthan,Rural,Community Development,23,70.1,78.4,Medium
+B00440,Delhi,Rural,Healthcare,44,91.7,66.4,High
+B00441,Rajasthan,Urban,Education,55,100.0,89.0,High
+B00442,Jharkhand,Rural,Education,12,66.9,100.0,Medium
+B00443,Bihar,Rural,Healthcare,44,75.5,81.7,Medium
+B00444,Jharkhand,Urban,Women Empowerment,21,83.1,73.4,High
+B00445,Delhi,Urban,Livelihood,12,66.9,53.8,Medium
+B00446,Uttar Pradesh,Rural,Livelihood,33,81.5,63.1,High
+B00447,Jharkhand,Urban,Education,42,75.1,69.0,Medium
+B00448,Bihar,Urban,Women Empowerment,20,74.8,64.5,Medium
+B00449,West Bengal,Urban,Healthcare,31,78.6,71.8,Medium
+B00450,West Bengal,Urban,Women Empowerment,65,78.9,96.9,Medium
+B00451,Bihar,Urban,Education,28,80.1,89.5,High
+B00452,Delhi,Rural,Healthcare,67,70.2,69.8,Medium
+B00453,Jharkhand,Urban,Education,58,70.8,55.1,Medium
+B00454,Bihar,Rural,Healthcare,30,76.5,90.7,Medium
+B00455,Delhi,Urban,Community Development,42,77.4,71.3,Medium
+B00456,Uttar Pradesh,Urban,Livelihood,50,72.3,47.8,Medium
+B00457,Bihar,Urban,Livelihood,35,82.2,82.0,High
+B00458,West Bengal,Rural,Healthcare,32,54.4,86.4,Low
+B00459,Delhi,Rural,Healthcare,27,68.5,38.0,Medium
+B00460,West Bengal,Rural,Women Empowerment,16,74.4,60.5,Medium
+B00461,Jharkhand,Urban,Community Development,9,66.9,70.5,Medium
+B00462,Rajasthan,Urban,Women Empowerment,28,99.2,82.3,High
+B00463,Rajasthan,Urban,Women Empowerment,55,78.2,64.8,Medium
+B00464,Jharkhand,Rural,Livelihood,22,80.3,60.4,High
+B00465,Delhi,Urban,Education,18,71.7,82.2,Medium
+B00466,Delhi,Rural,Women Empowerment,27,77.8,65.4,Medium
+B00467,West Bengal,Rural,Community Development,43,62.2,79.6,Medium
+B00468,Delhi,Rural,Livelihood,20,75.8,56.4,Medium
+B00469,Jharkhand,Rural,Education,21,65.8,53.1,Medium
+B00470,Uttar Pradesh,Urban,Women Empowerment,14,74.4,82.6,Medium
+B00471,Rajasthan,Rural,Community Development,27,44.7,75.5,Low
+B00472,Jharkhand,Urban,Healthcare,21,63.3,84.9,Medium
+B00473,Uttar Pradesh,Rural,Education,57,97.0,64.5,High
+B00474,Jharkhand,Rural,Women Empowerment,62,88.8,60.9,High
+B00475,Delhi,Urban,Healthcare,30,95.1,91.1,High
+B00476,Bihar,Rural,Women Empowerment,13,96.0,50.7,High
+B00477,Rajasthan,Urban,Women Empowerment,13,86.7,89.5,High
+B00478,Rajasthan,Urban,Healthcare,27,72.1,90.5,Medium
+B00479,Rajasthan,Rural,Education,35,64.5,84.0,Medium
+B00480,Delhi,Urban,Livelihood,39,92.9,62.4,High
+B00481,Uttar Pradesh,Rural,Livelihood,26,78.8,60.6,Medium
+B00482,Bihar,Rural,Community Development,29,100.0,69.1,High
+B00483,West Bengal,Rural,Healthcare,25,73.3,53.9,Medium
+B00484,Uttar Pradesh,Urban,Healthcare,39,100.0,58.5,High
+B00485,Rajasthan,Urban,Community Development,49,76.0,81.0,Medium
+B00486,Rajasthan,Rural,Women Empowerment,10,95.4,81.1,High
+B00487,Bihar,Urban,Women Empowerment,36,100.0,57.3,High
+B00488,Rajasthan,Rural,Community Development,46,64.7,81.5,Medium
+B00489,Bihar,Urban,Women Empowerment,48,71.7,78.4,Medium
+B00490,Delhi,Urban,Community Development,41,64.6,93.1,Medium
+B00491,Delhi,Rural,Women Empowerment,39,62.0,80.0,Medium
+B00492,Rajasthan,Rural,Livelihood,48,86.7,86.8,High
+B00493,Jharkhand,Rural,Education,30,75.4,78.7,Medium
+B00494,Rajasthan,Rural,Women Empowerment,42,78.7,85.7,Medium
+B00495,Jharkhand,Urban,Women Empowerment,27,85.2,54.0,High
+B00496,West Bengal,Urban,Community Development,34,53.9,70.3,Low
+B00497,Rajasthan,Urban,Women Empowerment,15,94.7,71.5,High
+B00498,Rajasthan,Rural,Livelihood,29,73.5,68.6,Medium
+B00499,Delhi,Urban,Livelihood,16,84.9,78.2,High
+B00500,Delhi,Rural,Education,21,86.1,80.9,High
+B00501,Rajasthan,Urban,Education,33,95.8,77.5,High
+B00502,West Bengal,Rural,Education,38,76.6,69.5,Medium
+B00503,Rajasthan,Rural,Community Development,64,50.4,61.7,Low
+B00504,Jharkhand,Rural,Women Empowerment,9,78.7,87.4,Medium
+B00505,Rajasthan,Urban,Healthcare,61,80.6,76.9,High
+B00506,West Bengal,Rural,Livelihood,27,64.6,57.7,Medium
+B00507,West Bengal,Urban,Livelihood,51,79.9,69.3,Medium
+B00508,Uttar Pradesh,Urban,Healthcare,48,73.3,47.6,Medium
+B00509,Jharkhand,Urban,Livelihood,66,60.5,72.5,Medium
+B00510,West Bengal,Urban,Healthcare,14,86.7,69.2,High
+B00511,West Bengal,Rural,Women Empowerment,66,70.7,64.0,Medium
+B00512,Rajasthan,Urban,Women Empowerment,11,72.7,94.2,Medium
+B00513,Uttar Pradesh,Urban,Education,60,72.0,55.8,Medium
+B00514,Uttar Pradesh,Rural,Livelihood,47,94.1,81.9,High
+B00515,Rajasthan,Rural,Community Development,36,77.5,100.0,Medium
+B00516,Rajasthan,Rural,Community Development,31,79.0,87.1,Medium
+B00517,Uttar Pradesh,Rural,Women Empowerment,13,72.3,71.6,Medium
+B00518,Delhi,Urban,Women Empowerment,56,84.0,56.1,High
+B00519,Rajasthan,Rural,Education,51,95.5,52.9,High
+B00520,Uttar Pradesh,Urban,Community Development,64,86.4,66.2,High
+B00521,West Bengal,Urban,Women Empowerment,51,86.9,62.4,High
+B00522,Bihar,Urban,Community Development,65,85.9,61.9,High
+B00523,Uttar Pradesh,Rural,Community Development,61,60.1,67.4,Medium
+B00524,West Bengal,Urban,Healthcare,33,66.6,70.6,Medium
+B00525,Jharkhand,Rural,Education,50,75.3,78.8,Medium
+B00526,Jharkhand,Urban,Women Empowerment,23,68.6,54.7,Medium
+B00527,Rajasthan,Urban,Livelihood,55,64.2,62.4,Medium
+B00528,Uttar Pradesh,Urban,Education,44,53.7,69.8,Low
+B00529,Jharkhand,Urban,Healthcare,34,60.5,69.3,Medium
+B00530,Jharkhand,Urban,Community Development,45,74.7,97.7,Medium
+B00531,West Bengal,Rural,Healthcare,24,77.1,75.3,Medium
+B00532,Uttar Pradesh,Rural,Healthcare,45,67.7,49.4,Medium
+B00533,Jharkhand,Urban,Women Empowerment,36,79.0,77.9,Medium
+B00534,Delhi,Rural,Women Empowerment,27,72.4,79.6,Medium
+B00535,Jharkhand,Urban,Healthcare,66,92.2,70.2,High
+B00536,Rajasthan,Urban,Community Development,11,75.9,55.0,Medium
+B00537,Delhi,Urban,Livelihood,53,87.1,96.6,High
+B00538,West Bengal,Rural,Education,20,80.6,57.0,High
+B00539,Rajasthan,Urban,Healthcare,21,59.8,81.3,Low
+B00540,West Bengal,Rural,Community Development,17,76.8,74.8,Medium
+B00541,Rajasthan,Urban,Education,14,61.9,80.4,Medium
+B00542,Jharkhand,Rural,Education,15,76.6,95.9,Medium
+B00543,Uttar Pradesh,Urban,Women Empowerment,57,68.3,79.9,Medium
+B00544,Rajasthan,Rural,Livelihood,63,83.0,64.2,High
+B00545,Jharkhand,Rural,Healthcare,43,60.5,87.5,Medium
+B00546,Uttar Pradesh,Urban,Livelihood,8,78.2,63.2,Medium
+B00547,Uttar Pradesh,Urban,Education,59,85.4,74.3,High
+B00548,Uttar Pradesh,Rural,Healthcare,44,89.8,53.9,High
+B00549,Rajasthan,Rural,Healthcare,39,68.1,57.5,Medium
+B00550,Bihar,Rural,Livelihood,64,78.2,72.7,Medium
+B00551,West Bengal,Urban,Women Empowerment,32,80.4,77.2,High
+B00552,Jharkhand,Rural,Community Development,29,98.1,48.2,High
+B00553,Bihar,Urban,Education,54,58.7,79.0,Low
+B00554,Jharkhand,Urban,Healthcare,39,66.2,60.5,Medium
+B00555,West Bengal,Rural,Healthcare,51,100.0,89.9,High
+B00556,West Bengal,Rural,Livelihood,49,74.4,67.1,Medium
+B00557,Jharkhand,Rural,Livelihood,58,53.4,56.3,Low
+B00558,Delhi,Rural,Community Development,27,70.4,73.1,Medium
+B00559,Bihar,Urban,Community Development,12,42.0,59.2,Low
+B00560,Bihar,Rural,Women Empowerment,36,81.1,89.8,High
+B00561,Delhi,Urban,Education,46,88.5,72.0,High
+B00562,Jharkhand,Urban,Education,57,66.1,69.9,Medium
+B00563,Bihar,Urban,Community Development,24,71.9,80.3,Medium
+B00564,Rajasthan,Rural,Community Development,52,90.0,57.9,High
+B00565,Jharkhand,Rural,Healthcare,57,55.2,54.0,Low
+B00566,Uttar Pradesh,Urban,Education,56,60.8,77.7,Medium
+B00567,Rajasthan,Rural,Women Empowerment,56,75.0,56.6,Medium
+B00568,Uttar Pradesh,Rural,Livelihood,67,68.2,56.6,Medium
+B00569,Rajasthan,Rural,Community Development,47,74.2,83.7,Medium
+B00570,Uttar Pradesh,Rural,Livelihood,30,61.6,79.4,Medium
+B00571,Delhi,Urban,Women Empowerment,34,80.8,54.4,High
+B00572,Delhi,Rural,Women Empowerment,52,76.1,63.3,Medium
+B00573,Rajasthan,Rural,Education,22,85.1,59.3,High
+B00574,Uttar Pradesh,Rural,Education,44,80.6,96.9,High
+B00575,Rajasthan,Rural,Women Empowerment,42,80.7,84.7,High
+B00576,Delhi,Urban,Education,47,59.2,66.1,Low
+B00577,Uttar Pradesh,Urban,Healthcare,33,84.4,80.1,High
+B00578,Jharkhand,Rural,Women Empowerment,52,73.7,53.0,Medium
+B00579,West Bengal,Urban,Healthcare,12,75.8,62.6,Medium
+B00580,Delhi,Urban,Education,52,91.6,73.5,High
+B00581,Bihar,Rural,Education,56,68.6,78.3,Medium
+B00582,Delhi,Rural,Livelihood,61,95.6,70.6,High
+B00583,Jharkhand,Rural,Women Empowerment,63,96.8,75.5,High
+B00584,Bihar,Rural,Women Empowerment,28,87.8,73.1,High
+B00585,Bihar,Rural,Community Development,10,65.3,69.7,Medium
+B00586,Rajasthan,Rural,Women Empowerment,47,49.6,67.9,Low
+B00587,Bihar,Rural,Women Empowerment,13,92.0,66.0,High
+B00588,Delhi,Urban,Healthcare,24,79.4,75.2,Medium
+B00589,West Bengal,Rural,Healthcare,50,68.3,77.8,Medium
+B00590,Uttar Pradesh,Urban,Healthcare,43,93.3,74.8,High
+B00591,Delhi,Urban,Education,44,66.8,55.5,Medium
+B00592,Bihar,Urban,Community Development,53,72.5,58.0,Medium
+B00593,West Bengal,Rural,Healthcare,17,84.8,77.6,High
+B00594,Jharkhand,Rural,Livelihood,55,63.5,92.6,Medium
+B00595,Rajasthan,Rural,Healthcare,43,76.6,74.1,Medium
+B00596,Rajasthan,Rural,Education,33,92.2,66.2,High
+B00597,Delhi,Rural,Community Development,35,80.7,75.1,High
+B00598,Bihar,Urban,Healthcare,38,94.2,56.1,High
+B00599,Delhi,Rural,Education,41,92.7,90.3,High
+B00600,Bihar,Rural,Healthcare,28,78.1,74.6,Medium
+B00601,Jharkhand,Rural,Education,21,47.6,62.6,Low
+B00602,Bihar,Urban,Community Development,18,63.6,69.7,Medium
+B00603,Rajasthan,Urban,Education,28,87.9,64.6,High
+B00604,Jharkhand,Rural,Healthcare,23,57.8,90.4,Low
+B00605,Uttar Pradesh,Urban,Healthcare,38,73.8,69.2,Medium
+B00606,Rajasthan,Urban,Education,62,82.4,74.2,High
+B00607,West Bengal,Urban,Education,14,97.1,80.0,High
+B00608,Delhi,Urban,Livelihood,26,70.5,61.6,Medium
+B00609,Bihar,Urban,Healthcare,10,69.6,74.7,Medium
+B00610,Delhi,Rural,Education,66,77.3,75.8,Medium
+B00611,Jharkhand,Rural,Healthcare,50,82.6,50.2,High
+B00612,West Bengal,Rural,Healthcare,22,76.0,75.5,Medium
+B00613,Uttar Pradesh,Urban,Livelihood,32,91.6,71.4,High
+B00614,West Bengal,Urban,Community Development,51,67.6,73.8,Medium
+B00615,Uttar Pradesh,Urban,Healthcare,65,79.6,72.5,Medium
+B00616,Uttar Pradesh,Urban,Women Empowerment,42,83.8,75.6,High
+B00617,Delhi,Urban,Women Empowerment,24,72.8,90.7,Medium
+B00618,Bihar,Rural,Education,49,88.9,55.5,High
+B00619,Delhi,Rural,Livelihood,49,79.9,67.2,Medium
+B00620,Delhi,Rural,Livelihood,46,88.3,81.3,High
+B00621,Uttar Pradesh,Urban,Livelihood,10,80.5,78.7,High
+B00622,West Bengal,Urban,Education,50,82.9,78.4,High
+B00623,Uttar Pradesh,Urban,Livelihood,9,69.8,100.0,Medium
+B00624,West Bengal,Urban,Education,62,69.8,80.6,Medium
+B00625,West Bengal,Rural,Community Development,60,93.9,87.8,High
+B00626,Jharkhand,Urban,Livelihood,41,86.3,67.7,High
+B00627,Uttar Pradesh,Rural,Education,46,64.7,58.1,Medium
+B00628,West Bengal,Rural,Livelihood,12,80.4,67.6,High
+B00629,Uttar Pradesh,Urban,Community Development,60,47.1,82.0,Low
+B00630,Uttar Pradesh,Urban,Women Empowerment,24,70.5,77.7,Medium
+B00631,Rajasthan,Urban,Healthcare,23,90.5,77.6,High
+B00632,Delhi,Urban,Community Development,50,76.4,69.0,Medium
+B00633,West Bengal,Rural,Education,64,79.5,66.8,Medium
+B00634,Bihar,Rural,Healthcare,37,38.8,69.5,Low
+B00635,Jharkhand,Rural,Education,38,72.9,82.1,Medium
+B00636,Rajasthan,Rural,Community Development,40,82.4,83.8,High
+B00637,West Bengal,Urban,Women Empowerment,25,84.0,57.9,High
+B00638,Jharkhand,Urban,Livelihood,43,90.5,82.7,High
+B00639,Rajasthan,Urban,Women Empowerment,65,75.3,62.9,Medium
+B00640,Uttar Pradesh,Urban,Healthcare,30,75.8,78.6,Medium
+B00641,Delhi,Rural,Education,54,60.7,69.3,Medium
+B00642,Bihar,Rural,Community Development,54,75.3,93.9,Medium
+B00643,West Bengal,Urban,Community Development,59,61.6,66.1,Medium
+B00644,West Bengal,Urban,Education,51,54.0,74.5,Low
+B00645,West Bengal,Urban,Education,63,63.9,80.5,Medium
+B00646,West Bengal,Rural,Livelihood,50,97.6,59.8,High
+B00647,Bihar,Urban,Education,66,74.5,71.0,Medium
+B00648,Jharkhand,Urban,Women Empowerment,50,80.9,68.3,High
+B00649,West Bengal,Urban,Community Development,58,71.3,64.8,Medium
+B00650,Uttar Pradesh,Rural,Healthcare,61,54.7,65.8,Low
+B00651,Delhi,Rural,Healthcare,67,90.2,87.6,High
+B00652,Rajasthan,Rural,Community Development,43,49.8,63.6,Low
+B00653,Delhi,Urban,Healthcare,50,70.8,79.9,Medium
+B00654,West Bengal,Urban,Healthcare,66,77.3,76.4,Medium
+B00655,Jharkhand,Rural,Education,30,81.0,52.4,High
+B00656,Jharkhand,Urban,Community Development,15,68.6,79.3,Medium
+B00657,Jharkhand,Urban,Community Development,61,54.1,52.2,Low
+B00658,Jharkhand,Rural,Education,45,67.6,80.8,Medium
+B00659,West Bengal,Urban,Community Development,33,68.3,64.9,Medium
+B00660,Rajasthan,Urban,Education,51,67.9,72.1,Medium
+B00661,Uttar Pradesh,Rural,Education,9,90.6,53.9,High
+B00662,Rajasthan,Rural,Healthcare,36,62.2,73.7,Medium
+B00663,Jharkhand,Urban,Livelihood,23,81.9,85.0,High
+B00664,Jharkhand,Urban,Community Development,25,80.1,60.7,High
+B00665,Uttar Pradesh,Rural,Women Empowerment,66,90.5,63.5,High
+B00666,Delhi,Urban,Education,41,76.3,78.4,Medium
+B00667,Jharkhand,Urban,Livelihood,16,88.3,78.7,High
+B00668,Delhi,Rural,Community Development,29,75.8,37.9,Medium
+B00669,Uttar Pradesh,Rural,Women Empowerment,22,83.6,100.0,High
+B00670,West Bengal,Rural,Healthcare,62,58.5,79.4,Low
+B00671,Delhi,Urban,Education,25,43.7,81.8,Low
+B00672,Jharkhand,Urban,Livelihood,29,82.9,70.0,High
+B00673,Bihar,Rural,Livelihood,28,83.6,46.0,High
+B00674,Bihar,Rural,Healthcare,18,84.2,81.4,High
+B00675,Rajasthan,Urban,Education,54,71.2,64.1,Medium
+B00676,Bihar,Rural,Education,42,97.4,79.6,High
+B00677,West Bengal,Urban,Livelihood,34,72.0,68.9,Medium
+B00678,Rajasthan,Rural,Community Development,31,83.5,75.3,High
+B00679,Delhi,Rural,Livelihood,48,85.7,61.2,High
+B00680,Rajasthan,Urban,Livelihood,13,100.0,84.1,High
+B00681,Delhi,Rural,Community Development,63,73.9,55.4,Medium
+B00682,Rajasthan,Rural,Women Empowerment,41,69.5,100.0,Medium
+B00683,Uttar Pradesh,Urban,Women Empowerment,21,58.5,100.0,Low
+B00684,Delhi,Urban,Livelihood,40,98.2,94.9,High
+B00685,Delhi,Rural,Women Empowerment,59,83.5,89.9,High
+B00686,West Bengal,Urban,Livelihood,18,83.9,70.8,High
+B00687,Bihar,Urban,Women Empowerment,39,100.0,88.3,High
+B00688,West Bengal,Urban,Women Empowerment,43,82.2,70.7,High
+B00689,Bihar,Rural,Women Empowerment,56,61.1,50.3,Medium
+B00690,Uttar Pradesh,Urban,Community Development,42,75.5,93.0,Medium
+B00691,Jharkhand,Rural,Healthcare,52,65.3,87.8,Medium
+B00692,Bihar,Urban,Women Empowerment,54,72.9,71.6,Medium
+B00693,Delhi,Urban,Education,61,72.8,54.8,Medium
+B00694,Rajasthan,Rural,Livelihood,29,70.4,63.8,Medium
+B00695,West Bengal,Urban,Community Development,50,59.9,46.5,Low
+B00696,Bihar,Urban,Women Empowerment,22,98.7,85.2,High
+B00697,Jharkhand,Urban,Healthcare,58,81.9,49.6,High
+B00698,Jharkhand,Rural,Women Empowerment,65,75.1,76.0,Medium
+B00699,Bihar,Urban,Healthcare,25,87.8,60.2,High
+B00700,Jharkhand,Urban,Livelihood,41,84.1,52.0,High
+B00701,Jharkhand,Urban,Healthcare,57,81.6,75.3,High
+B00702,West Bengal,Urban,Women Empowerment,9,86.9,67.3,High
+B00703,Uttar Pradesh,Urban,Education,50,79.7,83.7,Medium
+B00704,Uttar Pradesh,Rural,Livelihood,57,86.7,54.3,High
+B00705,West Bengal,Urban,Community Development,60,87.8,61.4,High
+B00706,West Bengal,Urban,Women Empowerment,19,80.1,38.6,High
+B00707,Bihar,Rural,Livelihood,53,75.1,41.4,Medium
+B00708,Uttar Pradesh,Rural,Community Development,55,97.9,97.2,High
+B00709,Jharkhand,Urban,Education,8,71.8,100.0,Medium
+B00710,West Bengal,Urban,Community Development,50,83.1,73.3,High
+B00711,Uttar Pradesh,Urban,Healthcare,45,83.4,60.5,High
+B00712,Uttar Pradesh,Rural,Community Development,66,70.1,67.8,Medium
+B00713,West Bengal,Urban,Community Development,10,67.5,84.2,Medium
+B00714,West Bengal,Urban,Women Empowerment,65,73.4,64.8,Medium
+B00715,Rajasthan,Urban,Women Empowerment,42,71.6,75.3,Medium
+B00716,West Bengal,Urban,Women Empowerment,24,59.0,71.8,Low
+B00717,Rajasthan,Urban,Healthcare,31,69.5,64.0,Medium
+B00718,Uttar Pradesh,Urban,Education,53,81.5,64.6,High
+B00719,Uttar Pradesh,Rural,Healthcare,67,94.5,76.1,High
+B00720,Uttar Pradesh,Rural,Livelihood,27,85.2,58.3,High
+B00721,Bihar,Rural,Women Empowerment,67,44.2,78.3,Low
+B00722,West Bengal,Rural,Healthcare,45,86.3,65.4,High
+B00723,Jharkhand,Urban,Livelihood,19,70.7,73.8,Medium
+B00724,Bihar,Rural,Education,43,83.9,91.4,High
+B00725,Uttar Pradesh,Rural,Education,56,77.8,69.6,Medium
+B00726,Uttar Pradesh,Rural,Community Development,11,75.5,84.9,Medium
+B00727,Delhi,Rural,Community Development,12,76.7,46.9,Medium
+B00728,Delhi,Urban,Community Development,8,77.7,65.4,Medium
+B00729,Uttar Pradesh,Urban,Healthcare,42,95.5,72.4,High
+B00730,Rajasthan,Urban,Livelihood,11,77.7,98.9,Medium
+B00731,Uttar Pradesh,Urban,Women Empowerment,63,92.1,44.6,High
+B00732,Jharkhand,Urban,Healthcare,15,90.2,70.7,High
+B00733,Delhi,Urban,Women Empowerment,12,86.7,92.4,High
+B00734,Delhi,Urban,Women Empowerment,23,54.8,61.0,Low
+B00735,West Bengal,Rural,Livelihood,53,92.5,69.0,High
+B00736,Rajasthan,Rural,Livelihood,62,72.0,76.6,Medium
+B00737,Bihar,Rural,Healthcare,23,87.3,74.6,High
+B00738,Delhi,Urban,Community Development,39,65.4,93.9,Medium
+B00739,Bihar,Rural,Community Development,54,62.6,78.3,Medium
+B00740,Delhi,Rural,Community Development,55,100.0,90.6,High
+B00741,Jharkhand,Rural,Women Empowerment,17,65.6,67.0,Medium
+B00742,Delhi,Rural,Healthcare,58,92.9,61.6,High
+B00743,Uttar Pradesh,Urban,Women Empowerment,60,79.5,68.8,Medium
+B00744,Uttar Pradesh,Urban,Healthcare,52,72.5,55.8,Medium
+B00745,Uttar Pradesh,Rural,Community Development,39,77.4,78.8,Medium
+B00746,Uttar Pradesh,Rural,Healthcare,31,61.1,66.6,Medium
+B00747,Delhi,Urban,Livelihood,61,77.8,62.6,Medium
+B00748,West Bengal,Urban,Education,59,63.9,79.0,Medium
+B00749,Bihar,Urban,Education,39,72.9,56.0,Medium
+B00750,Bihar,Urban,Healthcare,52,90.0,82.8,High
+B00751,Jharkhand,Rural,Livelihood,31,81.3,65.3,High
+B00752,West Bengal,Rural,Education,52,58.7,88.2,Low
+B00753,Uttar Pradesh,Urban,Community Development,13,89.1,66.5,High
+B00754,Uttar Pradesh,Urban,Education,62,77.9,80.8,Medium
+B00755,Jharkhand,Urban,Community Development,38,71.0,74.5,Medium
+B00756,Delhi,Urban,Healthcare,43,87.7,82.4,High
+B00757,West Bengal,Rural,Healthcare,19,75.8,73.5,Medium
+B00758,Bihar,Rural,Education,39,62.8,48.7,Medium
+B00759,Bihar,Rural,Community Development,8,100.0,86.1,High
+B00760,Jharkhand,Urban,Women Empowerment,61,77.8,70.8,Medium
+B00761,Delhi,Rural,Education,52,76.9,83.1,Medium
+B00762,West Bengal,Rural,Education,35,72.7,81.7,Medium
+B00763,Jharkhand,Urban,Women Empowerment,58,93.3,61.2,High
+B00764,Delhi,Rural,Community Development,56,71.2,59.2,Medium
+B00765,Bihar,Rural,Education,15,57.9,81.2,Low
+B00766,Bihar,Rural,Healthcare,11,69.2,67.8,Medium
+B00767,West Bengal,Urban,Livelihood,23,95.2,85.1,High
+B00768,Uttar Pradesh,Urban,Education,8,88.8,69.5,High
+B00769,Jharkhand,Rural,Healthcare,42,74.7,86.3,Medium
+B00770,West Bengal,Urban,Education,39,95.9,77.9,High
+B00771,Rajasthan,Urban,Livelihood,40,87.7,76.0,High
+B00772,Uttar Pradesh,Rural,Women Empowerment,12,74.5,66.8,Medium
+B00773,Bihar,Urban,Livelihood,63,75.8,75.3,Medium
+B00774,West Bengal,Urban,Healthcare,66,82.3,88.7,High
+B00775,West Bengal,Rural,Livelihood,43,67.2,71.2,Medium
+B00776,Uttar Pradesh,Rural,Livelihood,8,78.1,79.4,Medium
+B00777,Jharkhand,Rural,Education,31,82.0,72.6,High
+B00778,Uttar Pradesh,Rural,Education,51,56.1,73.7,Low
+B00779,West Bengal,Urban,Education,52,75.5,96.1,Medium
+B00780,West Bengal,Urban,Community Development,22,74.1,88.8,Medium
+B00781,Uttar Pradesh,Rural,Women Empowerment,57,91.4,73.1,High
+B00782,Delhi,Urban,Education,66,54.0,75.0,Low
+B00783,Delhi,Urban,Healthcare,38,73.0,62.2,Medium
+B00784,Bihar,Urban,Livelihood,30,71.7,69.6,Medium
+B00785,Bihar,Rural,Education,39,90.5,76.3,High
+B00786,Rajasthan,Urban,Community Development,9,77.4,83.9,Medium
+B00787,Delhi,Rural,Community Development,39,100.0,82.5,High
+B00788,Bihar,Urban,Healthcare,9,86.6,56.5,High
+B00789,Bihar,Rural,Education,10,72.7,85.7,Medium
+B00790,Delhi,Urban,Healthcare,41,81.1,70.8,High
+B00791,Rajasthan,Urban,Livelihood,38,73.4,58.2,Medium
+B00792,Delhi,Rural,Community Development,67,89.2,90.7,High
+B00793,Rajasthan,Rural,Healthcare,38,60.7,92.5,Medium
+B00794,Delhi,Urban,Healthcare,66,67.3,75.7,Medium
+B00795,West Bengal,Urban,Healthcare,56,83.9,81.9,High
+B00796,West Bengal,Urban,Education,28,93.9,82.7,High
+B00797,Bihar,Urban,Education,63,49.4,91.5,Low
+B00798,Bihar,Rural,Livelihood,36,95.9,82.2,High
+B00799,Rajasthan,Urban,Women Empowerment,43,76.2,53.4,Medium
+B00800,Rajasthan,Rural,Education,14,53.5,100.0,Low

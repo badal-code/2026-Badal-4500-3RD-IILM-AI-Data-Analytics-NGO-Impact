@@ -1,0 +1,351 @@
+volunteer_id,state,program,skill_area,hours_contributed,months_active
+V00001,Bihar,Women Empowerment,Field Operations,18.9,15
+V00002,Uttar Pradesh,Livelihood,Teaching,16.1,18
+V00003,Jharkhand,Livelihood,Field Operations,18.3,22
+V00004,Delhi,Education,Fundraising,93.1,13
+V00005,Bihar,Livelihood,Field Operations,45.3,15
+V00006,Jharkhand,Livelihood,Technology,27.6,15
+V00007,Rajasthan,Community Development,Technology,44.9,1
+V00008,Delhi,Healthcare,Teaching,45.2,18
+V00009,Uttar Pradesh,Healthcare,Technology,78.9,1
+V00010,Uttar Pradesh,Education,Fundraising,7.0,14
+V00011,Delhi,Livelihood,Field Operations,19.3,24
+V00012,Uttar Pradesh,Women Empowerment,Technology,4.0,19
+V00013,Rajasthan,Healthcare,Teaching,84.3,13
+V00014,Rajasthan,Women Empowerment,Field Operations,65.3,8
+V00015,Delhi,Community Development,Teaching,12.9,21
+V00016,Rajasthan,Education,Healthcare,42.6,21
+V00017,Rajasthan,Livelihood,Healthcare,19.0,9
+V00018,Bihar,Women Empowerment,Field Operations,18.6,3
+V00019,Delhi,Education,Teaching,145.7,14
+V00020,Jharkhand,Education,Field Operations,26.9,16
+V00021,Delhi,Healthcare,Healthcare,12.0,23
+V00022,Delhi,Education,Technology,20.3,22
+V00023,Delhi,Healthcare,Teaching,57.8,6
+V00024,West Bengal,Education,Healthcare,35.6,7
+V00025,Uttar Pradesh,Community Development,Technology,41.9,24
+V00026,Jharkhand,Livelihood,Technology,28.0,8
+V00027,Uttar Pradesh,Healthcare,Field Operations,44.7,12
+V00028,Rajasthan,Women Empowerment,Field Operations,51.5,8
+V00029,Bihar,Education,Fundraising,19.7,10
+V00030,Bihar,Livelihood,Healthcare,25.3,14
+V00031,Bihar,Women Empowerment,Healthcare,58.8,8
+V00032,Delhi,Community Development,Field Operations,41.0,10
+V00033,Jharkhand,Healthcare,Technology,84.4,9
+V00034,Rajasthan,Livelihood,Field Operations,61.1,3
+V00035,Delhi,Women Empowerment,Fundraising,14.8,19
+V00036,Uttar Pradesh,Women Empowerment,Fundraising,20.9,22
+V00037,Delhi,Education,Field Operations,55.0,12
+V00038,Bihar,Community Development,Technology,18.5,5
+V00039,Delhi,Healthcare,Healthcare,42.5,16
+V00040,West Bengal,Healthcare,Fundraising,64.0,13
+V00041,Bihar,Education,Healthcare,50.9,14
+V00042,West Bengal,Education,Technology,16.6,15
+V00043,Uttar Pradesh,Healthcare,Teaching,21.7,18
+V00044,West Bengal,Education,Field Operations,51.8,1
+V00045,West Bengal,Women Empowerment,Field Operations,108.0,3
+V00046,West Bengal,Livelihood,Teaching,37.4,3
+V00047,West Bengal,Healthcare,Technology,65.2,4
+V00048,West Bengal,Livelihood,Teaching,51.2,24
+V00049,Uttar Pradesh,Women Empowerment,Healthcare,26.3,18
+V00050,Bihar,Education,Healthcare,65.6,16
+V00051,Delhi,Healthcare,Fundraising,12.2,17
+V00052,Jharkhand,Community Development,Field Operations,63.0,1
+V00053,Jharkhand,Education,Fundraising,53.0,6
+V00054,West Bengal,Community Development,Healthcare,28.0,20
+V00055,Uttar Pradesh,Community Development,Teaching,19.7,12
+V00056,Rajasthan,Healthcare,Field Operations,29.6,13
+V00057,Delhi,Healthcare,Healthcare,25.1,19
+V00058,Uttar Pradesh,Healthcare,Fundraising,33.8,2
+V00059,West Bengal,Livelihood,Teaching,31.5,20
+V00060,Bihar,Healthcare,Healthcare,28.0,17
+V00061,Delhi,Women Empowerment,Fundraising,11.8,10
+V00062,West Bengal,Healthcare,Field Operations,17.8,12
+V00063,West Bengal,Community Development,Healthcare,71.4,2
+V00064,Uttar Pradesh,Community Development,Fundraising,28.5,5
+V00065,Bihar,Livelihood,Field Operations,34.2,6
+V00066,Bihar,Livelihood,Healthcare,30.4,22
+V00067,Bihar,Education,Healthcare,85.5,3
+V00068,West Bengal,Education,Teaching,24.7,7
+V00069,West Bengal,Livelihood,Field Operations,23.5,4
+V00070,Jharkhand,Livelihood,Teaching,53.6,7
+V00071,Jharkhand,Healthcare,Healthcare,44.4,1
+V00072,Uttar Pradesh,Education,Teaching,54.5,7
+V00073,Uttar Pradesh,Community Development,Technology,52.5,18
+V00074,Bihar,Livelihood,Healthcare,66.6,19
+V00075,West Bengal,Livelihood,Technology,16.3,10
+V00076,Bihar,Livelihood,Technology,50.8,17
+V00077,Bihar,Livelihood,Teaching,23.6,15
+V00078,West Bengal,Women Empowerment,Healthcare,9.2,22
+V00079,Jharkhand,Women Empowerment,Teaching,52.3,20
+V00080,Delhi,Livelihood,Teaching,50.6,6
+V00081,Uttar Pradesh,Education,Fundraising,39.4,15
+V00082,Bihar,Community Development,Healthcare,67.2,19
+V00083,Delhi,Healthcare,Teaching,23.8,8
+V00084,Delhi,Education,Fundraising,57.2,14
+V00085,Jharkhand,Education,Fundraising,36.1,10
+V00086,Bihar,Women Empowerment,Field Operations,37.7,8
+V00087,Uttar Pradesh,Healthcare,Technology,10.3,5
+V00088,Bihar,Education,Healthcare,67.6,1
+V00089,Delhi,Community Development,Fundraising,49.5,18
+V00090,Uttar Pradesh,Healthcare,Teaching,56.0,20
+V00091,Uttar Pradesh,Community Development,Healthcare,21.7,16
+V00092,Jharkhand,Community Development,Fundraising,46.3,6
+V00093,Delhi,Education,Teaching,36.0,1
+V00094,Uttar Pradesh,Women Empowerment,Field Operations,51.0,16
+V00095,West Bengal,Women Empowerment,Fundraising,45.1,5
+V00096,Delhi,Education,Technology,94.5,14
+V00097,Delhi,Healthcare,Healthcare,78.8,24
+V00098,Delhi,Livelihood,Field Operations,33.6,1
+V00099,Bihar,Education,Healthcare,52.3,14
+V00100,Delhi,Women Empowerment,Field Operations,31.9,24
+V00101,Jharkhand,Healthcare,Fundraising,66.2,9
+V00102,Bihar,Community Development,Technology,36.9,20
+V00103,Jharkhand,Community Development,Healthcare,29.3,20
+V00104,Bihar,Women Empowerment,Field Operations,45.9,12
+V00105,Jharkhand,Education,Teaching,75.5,8
+V00106,Bihar,Education,Teaching,69.1,17
+V00107,Uttar Pradesh,Education,Fundraising,30.3,15
+V00108,Delhi,Livelihood,Field Operations,90.0,12
+V00109,Jharkhand,Women Empowerment,Field Operations,22.5,5
+V00110,West Bengal,Education,Field Operations,27.1,18
+V00111,Delhi,Women Empowerment,Fundraising,64.7,6
+V00112,Bihar,Education,Field Operations,9.2,4
+V00113,Delhi,Healthcare,Fundraising,40.4,2
+V00114,West Bengal,Livelihood,Fundraising,33.5,11
+V00115,Bihar,Community Development,Teaching,92.9,3
+V00116,West Bengal,Women Empowerment,Technology,19.9,9
+V00117,Delhi,Livelihood,Healthcare,21.4,6
+V00118,Bihar,Education,Teaching,99.9,12
+V00119,West Bengal,Healthcare,Healthcare,33.7,19
+V00120,Bihar,Women Empowerment,Technology,73.9,11
+V00121,Delhi,Education,Healthcare,30.5,14
+V00122,Uttar Pradesh,Women Empowerment,Healthcare,26.4,4
+V00123,Jharkhand,Women Empowerment,Healthcare,75.9,3
+V00124,Bihar,Women Empowerment,Fundraising,113.0,24
+V00125,Bihar,Healthcare,Technology,79.1,15
+V00126,Jharkhand,Healthcare,Technology,29.3,1
+V00127,Rajasthan,Education,Teaching,39.3,14
+V00128,Bihar,Healthcare,Healthcare,22.0,1
+V00129,Delhi,Livelihood,Technology,24.5,2
+V00130,West Bengal,Education,Healthcare,23.7,9
+V00131,Uttar Pradesh,Livelihood,Teaching,31.0,16
+V00132,Delhi,Healthcare,Healthcare,43.1,15
+V00133,Rajasthan,Livelihood,Technology,40.3,19
+V00134,West Bengal,Healthcare,Technology,59.6,5
+V00135,Uttar Pradesh,Community Development,Teaching,44.4,5
+V00136,West Bengal,Healthcare,Technology,56.5,13
+V00137,West Bengal,Community Development,Teaching,61.5,21
+V00138,Jharkhand,Education,Technology,29.7,18
+V00139,Delhi,Education,Fundraising,36.5,17
+V00140,Rajasthan,Education,Teaching,175.9,3
+V00141,Rajasthan,Livelihood,Healthcare,28.2,22
+V00142,Rajasthan,Community Development,Field Operations,58.3,24
+V00143,West Bengal,Education,Fundraising,17.1,14
+V00144,Delhi,Women Empowerment,Technology,62.5,9
+V00145,Bihar,Women Empowerment,Technology,25.4,16
+V00146,Bihar,Healthcare,Teaching,41.1,16
+V00147,Rajasthan,Healthcare,Field Operations,15.1,23
+V00148,Delhi,Community Development,Healthcare,38.8,3
+V00149,Bihar,Women Empowerment,Technology,39.2,13
+V00150,Uttar Pradesh,Healthcare,Fundraising,35.7,18
+V00151,Bihar,Community Development,Fundraising,51.3,9
+V00152,Jharkhand,Livelihood,Healthcare,72.4,21
+V00153,Jharkhand,Education,Field Operations,21.3,2
+V00154,Delhi,Community Development,Teaching,36.2,3
+V00155,West Bengal,Community Development,Field Operations,15.9,19
+V00156,Delhi,Livelihood,Healthcare,11.0,4
+V00157,Rajasthan,Women Empowerment,Field Operations,44.0,11
+V00158,West Bengal,Healthcare,Teaching,20.3,7
+V00159,Bihar,Community Development,Teaching,40.1,17
+V00160,Uttar Pradesh,Healthcare,Teaching,45.1,1
+V00161,West Bengal,Healthcare,Fundraising,12.5,9
+V00162,Jharkhand,Livelihood,Healthcare,49.0,24
+V00163,West Bengal,Healthcare,Fundraising,70.5,9
+V00164,Delhi,Women Empowerment,Field Operations,55.4,15
+V00165,Bihar,Women Empowerment,Teaching,21.7,24
+V00166,West Bengal,Livelihood,Fundraising,38.6,15
+V00167,West Bengal,Women Empowerment,Technology,41.1,19
+V00168,Jharkhand,Livelihood,Fundraising,36.6,24
+V00169,Delhi,Community Development,Field Operations,16.5,15
+V00170,Bihar,Healthcare,Technology,24.0,20
+V00171,West Bengal,Women Empowerment,Teaching,34.7,13
+V00172,Jharkhand,Livelihood,Fundraising,44.7,20
+V00173,West Bengal,Community Development,Healthcare,28.1,16
+V00174,Uttar Pradesh,Healthcare,Teaching,10.1,9
+V00175,West Bengal,Education,Field Operations,29.1,14
+V00176,West Bengal,Community Development,Healthcare,94.5,9
+V00177,Rajasthan,Community Development,Teaching,49.2,10
+V00178,Jharkhand,Women Empowerment,Healthcare,44.0,8
+V00179,West Bengal,Livelihood,Field Operations,23.7,12
+V00180,Delhi,Livelihood,Fundraising,30.0,9
+V00181,West Bengal,Women Empowerment,Field Operations,9.5,16
+V00182,West Bengal,Women Empowerment,Fundraising,22.7,9
+V00183,West Bengal,Healthcare,Teaching,47.8,12
+V00184,Rajasthan,Education,Healthcare,44.2,4
+V00185,Bihar,Education,Teaching,26.4,10
+V00186,West Bengal,Healthcare,Fundraising,36.6,9
+V00187,West Bengal,Women Empowerment,Healthcare,40.3,24
+V00188,Jharkhand,Livelihood,Field Operations,27.3,11
+V00189,Jharkhand,Women Empowerment,Healthcare,50.8,1
+V00190,West Bengal,Livelihood,Healthcare,43.7,8
+V00191,Delhi,Healthcare,Field Operations,30.6,18
+V00192,Delhi,Women Empowerment,Fundraising,17.2,4
+V00193,West Bengal,Women Empowerment,Teaching,29.3,4
+V00194,West Bengal,Community Development,Fundraising,28.1,9
+V00195,Uttar Pradesh,Community Development,Healthcare,26.4,9
+V00196,West Bengal,Healthcare,Technology,12.9,12
+V00197,Uttar Pradesh,Women Empowerment,Fundraising,80.9,1
+V00198,Bihar,Healthcare,Technology,78.7,18
+V00199,Rajasthan,Community Development,Field Operations,35.8,6
+V00200,Uttar Pradesh,Women Empowerment,Technology,44.6,18
+V00201,Uttar Pradesh,Community Development,Healthcare,50.3,14
+V00202,Uttar Pradesh,Healthcare,Healthcare,36.1,5
+V00203,Delhi,Education,Fundraising,46.4,12
+V00204,Bihar,Education,Fundraising,54.3,1
+V00205,Bihar,Livelihood,Healthcare,42.8,17
+V00206,Delhi,Community Development,Field Operations,59.7,8
+V00207,Uttar Pradesh,Women Empowerment,Field Operations,25.8,10
+V00208,Uttar Pradesh,Community Development,Healthcare,38.6,4
+V00209,Rajasthan,Livelihood,Technology,143.0,9
+V00210,Jharkhand,Community Development,Field Operations,67.4,10
+V00211,Bihar,Community Development,Teaching,43.3,6
+V00212,Bihar,Healthcare,Healthcare,21.4,24
+V00213,West Bengal,Community Development,Technology,39.7,7
+V00214,Uttar Pradesh,Education,Fundraising,64.9,5
+V00215,Bihar,Livelihood,Technology,57.7,14
+V00216,Jharkhand,Livelihood,Fundraising,10.7,8
+V00217,Rajasthan,Healthcare,Teaching,13.3,11
+V00218,Delhi,Community Development,Fundraising,13.7,18
+V00219,West Bengal,Women Empowerment,Fundraising,50.8,2
+V00220,Delhi,Education,Field Operations,13.8,13
+V00221,Bihar,Education,Teaching,20.8,1
+V00222,West Bengal,Education,Teaching,35.4,2
+V00223,Rajasthan,Healthcare,Teaching,70.9,3
+V00224,Rajasthan,Education,Fundraising,52.1,4
+V00225,Bihar,Healthcare,Field Operations,32.9,9
+V00226,Jharkhand,Women Empowerment,Technology,60.6,23
+V00227,Jharkhand,Community Development,Field Operations,109.5,22
+V00228,Bihar,Women Empowerment,Field Operations,39.9,3
+V00229,Rajasthan,Livelihood,Technology,16.6,24
+V00230,Bihar,Women Empowerment,Technology,21.2,16
+V00231,Uttar Pradesh,Community Development,Healthcare,21.1,14
+V00232,Rajasthan,Education,Field Operations,24.3,20
+V00233,Jharkhand,Community Development,Technology,31.5,12
+V00234,West Bengal,Women Empowerment,Field Operations,45.4,7
+V00235,Delhi,Healthcare,Field Operations,14.8,13
+V00236,West Bengal,Livelihood,Healthcare,16.8,18
+V00237,Bihar,Livelihood,Teaching,54.1,17
+V00238,West Bengal,Education,Field Operations,28.2,5
+V00239,Bihar,Healthcare,Fundraising,22.6,23
+V00240,Uttar Pradesh,Healthcare,Field Operations,33.7,7
+V00241,Jharkhand,Education,Technology,77.7,20
+V00242,Delhi,Livelihood,Healthcare,58.2,8
+V00243,Bihar,Livelihood,Healthcare,56.0,2
+V00244,West Bengal,Healthcare,Technology,92.5,24
+V00245,Uttar Pradesh,Education,Healthcare,46.7,15
+V00246,Rajasthan,Community Development,Healthcare,97.1,6
+V00247,Bihar,Women Empowerment,Healthcare,101.4,1
+V00248,Uttar Pradesh,Livelihood,Technology,15.2,4
+V00249,Uttar Pradesh,Women Empowerment,Teaching,12.3,5
+V00250,Jharkhand,Healthcare,Teaching,20.2,23
+V00251,Delhi,Healthcare,Teaching,73.5,5
+V00252,Bihar,Women Empowerment,Technology,34.1,4
+V00253,Jharkhand,Women Empowerment,Teaching,31.6,21
+V00254,Rajasthan,Women Empowerment,Fundraising,61.5,22
+V00255,Bihar,Livelihood,Teaching,27.3,6
+V00256,Uttar Pradesh,Education,Fundraising,43.3,16
+V00257,Delhi,Women Empowerment,Teaching,54.1,13
+V00258,West Bengal,Women Empowerment,Teaching,21.4,14
+V00259,Bihar,Livelihood,Fundraising,18.3,8
+V00260,Uttar Pradesh,Healthcare,Technology,39.8,19
+V00261,Uttar Pradesh,Community Development,Teaching,42.8,22
+V00262,Jharkhand,Healthcare,Fundraising,58.9,18
+V00263,Bihar,Healthcare,Field Operations,19.9,22
+V00264,Jharkhand,Women Empowerment,Technology,24.8,3
+V00265,Delhi,Livelihood,Technology,100.8,16
+V00266,Uttar Pradesh,Livelihood,Healthcare,66.6,24
+V00267,Rajasthan,Women Empowerment,Field Operations,36.0,13
+V00268,West Bengal,Healthcare,Teaching,72.5,23
+V00269,West Bengal,Education,Technology,19.9,9
+V00270,Rajasthan,Education,Fundraising,33.6,22
+V00271,Uttar Pradesh,Community Development,Teaching,4.0,23
+V00272,Rajasthan,Livelihood,Field Operations,42.6,15
+V00273,Uttar Pradesh,Livelihood,Technology,31.3,17
+V00274,Uttar Pradesh,Healthcare,Healthcare,32.0,13
+V00275,Jharkhand,Women Empowerment,Teaching,57.3,8
+V00276,West Bengal,Community Development,Technology,67.1,13
+V00277,Jharkhand,Women Empowerment,Fundraising,29.3,24
+V00278,Jharkhand,Livelihood,Teaching,15.8,1
+V00279,Delhi,Livelihood,Field Operations,13.6,5
+V00280,Jharkhand,Community Development,Technology,8.8,12
+V00281,Delhi,Community Development,Fundraising,91.7,9
+V00282,Delhi,Healthcare,Healthcare,57.4,15
+V00283,Jharkhand,Community Development,Healthcare,50.5,9
+V00284,Jharkhand,Community Development,Fundraising,27.0,16
+V00285,Uttar Pradesh,Community Development,Teaching,26.9,3
+V00286,Bihar,Education,Healthcare,68.3,8
+V00287,Uttar Pradesh,Education,Healthcare,12.4,17
+V00288,Delhi,Healthcare,Teaching,30.1,12
+V00289,Bihar,Women Empowerment,Teaching,73.8,18
+V00290,Uttar Pradesh,Education,Healthcare,30.1,16
+V00291,Rajasthan,Education,Healthcare,55.8,8
+V00292,Uttar Pradesh,Education,Healthcare,36.9,11
+V00293,West Bengal,Education,Technology,4.5,24
+V00294,Bihar,Community Development,Fundraising,36.0,24
+V00295,Rajasthan,Women Empowerment,Teaching,40.3,1
+V00296,Uttar Pradesh,Women Empowerment,Field Operations,34.3,17
+V00297,Delhi,Healthcare,Technology,17.7,12
+V00298,West Bengal,Women Empowerment,Fundraising,34.6,1
+V00299,Uttar Pradesh,Women Empowerment,Teaching,9.2,16
+V00300,Jharkhand,Livelihood,Field Operations,29.9,1
+V00301,West Bengal,Community Development,Technology,58.3,8
+V00302,Bihar,Livelihood,Fundraising,88.9,17
+V00303,Bihar,Healthcare,Teaching,80.8,20
+V00304,West Bengal,Women Empowerment,Teaching,19.6,10
+V00305,Uttar Pradesh,Community Development,Healthcare,14.0,20
+V00306,Rajasthan,Community Development,Healthcare,42.6,21
+V00307,Rajasthan,Livelihood,Healthcare,38.7,11
+V00308,Rajasthan,Livelihood,Fundraising,53.5,5
+V00309,Rajasthan,Community Development,Teaching,25.6,16
+V00310,West Bengal,Women Empowerment,Healthcare,39.4,1
+V00311,Delhi,Livelihood,Field Operations,38.2,22
+V00312,Rajasthan,Healthcare,Field Operations,30.5,10
+V00313,Delhi,Community Development,Teaching,11.7,19
+V00314,Jharkhand,Community Development,Technology,57.8,18
+V00315,Bihar,Education,Field Operations,42.8,12
+V00316,Rajasthan,Education,Fundraising,60.1,24
+V00317,Jharkhand,Education,Healthcare,68.3,20
+V00318,Rajasthan,Healthcare,Fundraising,36.2,22
+V00319,Delhi,Education,Healthcare,58.0,3
+V00320,Uttar Pradesh,Community Development,Healthcare,90.0,12
+V00321,Jharkhand,Community Development,Field Operations,106.2,23
+V00322,Rajasthan,Education,Technology,45.8,20
+V00323,Jharkhand,Community Development,Fundraising,47.9,11
+V00324,West Bengal,Education,Teaching,45.4,2
+V00325,Uttar Pradesh,Women Empowerment,Field Operations,52.4,7
+V00326,West Bengal,Healthcare,Teaching,66.6,14
+V00327,West Bengal,Education,Technology,44.8,16
+V00328,Rajasthan,Livelihood,Healthcare,102.8,23
+V00329,Bihar,Community Development,Healthcare,94.8,3
+V00330,Delhi,Community Development,Teaching,40.2,10
+V00331,Bihar,Education,Healthcare,40.1,7
+V00332,Delhi,Community Development,Technology,29.1,24
+V00333,West Bengal,Healthcare,Fundraising,54.0,4
+V00334,Jharkhand,Livelihood,Teaching,32.2,6
+V00335,West Bengal,Education,Healthcare,28.3,8
+V00336,West Bengal,Community Development,Teaching,53.3,3
+V00337,Rajasthan,Women Empowerment,Fundraising,18.9,16
+V00338,Rajasthan,Women Empowerment,Field Operations,67.3,13
+V00339,Jharkhand,Women Empowerment,Field Operations,54.6,14
+V00340,Rajasthan,Community Development,Field Operations,92.1,22
+V00341,Bihar,Education,Teaching,46.3,11
+V00342,West Bengal,Healthcare,Fundraising,59.4,8
+V00343,Jharkhand,Education,Teaching,6.3,10
+V00344,Rajasthan,Livelihood,Fundraising,63.8,20
+V00345,Jharkhand,Livelihood,Fundraising,77.3,13
+V00346,Uttar Pradesh,Education,Technology,43.3,5
+V00347,West Bengal,Women Empowerment,Healthcare,29.0,17
+V00348,Rajasthan,Education,Teaching,46.9,18
+V00349,Bihar,Women Empowerment,Fundraising,67.2,6
+V00350,Bihar,Women Empowerment,Fundraising,72.2,14
